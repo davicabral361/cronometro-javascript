@@ -1,0 +1,56 @@
+#cronometro {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(106, 5, 200);
+  }
+
+#cronometro:hover{
+    color: rgb(146, 42, 244);
+}
+
+h1{
+    font-size: 50px;
+    color: blueviolet;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 25px;
+}
+
+h1:hover{
+    color: rgb(169, 95, 237);
+}
+
+.contorno{
+    background-color: rgb(238, 199, 254);
+    margin-top: 250px;
+    margin-right: 400px;
+    margin-left: 400px;
+    border-radius: 25px;
+    border-style: groove; 
+    border-top-color: rgb(238, 199, 254);
+    border-top-color: rgb(238, 199, 254);
+    border-bottom-color: rgb(238, 199, 254);
+    border-right-color:  rgb(238, 199, 254);
+    border-left-color:  rgb(238, 199, 254);
+}
+
+.botao{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+button{
+    font-size: 25px;
+    font-family: monospace;
+    color: blueviolet;
+    border-radius: 15px;
+    border-color:  rgb(106, 5, 200);
+    cursor: pointer;
+    background-color: white;
+}
+
+button:hover{
+    color: rgb(106, 5, 200);
+}
